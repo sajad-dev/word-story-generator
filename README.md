@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/AI-Story%20Generation-00D4AA.svg?style=flat&logo=openai" alt="AI Story Generation">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg?style=flat" alt="Status">
 </p>
 
 This project uses deep learning techniques to generate word stories based on a given dataset. It is implemented in Python and uses Jupyter Notebook for training and testing the model. The model is built using neural networks to predict the next word in a sequence, ultimately generating coherent stories.
